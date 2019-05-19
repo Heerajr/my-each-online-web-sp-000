@@ -1,7 +1,8 @@
-def my_each(array) # put argument(s) here
+def my_each(array) do
+  |i|
+end # put argument(s) here
   i = 0
-  while i<array do
-    |i|
+  while i<array 
   end
     yield array[i]
      i
