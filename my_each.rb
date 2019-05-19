@@ -1,5 +1,4 @@
-def my_each(array) do
-  |i| # put argument(s) here
+def my_each(array) do |i| # put argument(s) here
   i = 0
   while i<array
   end
